@@ -57,7 +57,7 @@ export default {
         }
       },
     submitForm(){
-      this.formSubmitted = true
+      this.formSubmitted = true;
     }
   }
 }
@@ -85,9 +85,6 @@ img {
         border-bottom: 2px solid #green;
         box-shadow: none;
     }
-
-
-
 .submitted {
   color: #4fc08d;
 }
