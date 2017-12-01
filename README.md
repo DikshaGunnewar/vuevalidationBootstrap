@@ -1,6 +1,6 @@
 # Form Validation using Vue.js 2
 
-![](http://i.imgur.com/scaI6kr.gif)
+
 
 This is the source code for my tutorial on [DotDev](https://dotdev.co/form-validation-using-vue-js-2-35abd6b18c5d) regarding form validation.
 
